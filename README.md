@@ -1,5 +1,7 @@
 # odin-recipes
 
+--> The Odins Project
+
 Creates a html only skeleteon for a cookbook website
 with a index page referencing to other recipes through an anchor tag
 
